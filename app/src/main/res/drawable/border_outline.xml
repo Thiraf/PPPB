@@ -5,4 +5,5 @@
         android:width="3dp"
         android:color="@color/black"/> <!-- Border color -->
     <corners android:radius="15dp"/> <!-- Radius for rounded corners -->
+<!--    halo -->
 </shape>
